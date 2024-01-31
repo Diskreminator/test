@@ -180,3 +180,19 @@ git commit -m* "Merged master fixed conflict."
 
 
 ### Зона для слияния веток с картинками (ветка Second)
+
+
+
+
+
+
+
+
+.......Лисицу 
+
+
+<p align="center">
+  <img
+  
+  ![Лисица](Fox_Avatar_Rounded@2x.png) 
+</p>
