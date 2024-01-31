@@ -177,3 +177,8 @@ git commit -m* "Merged master fixed conflict."
  4. Для удаления веток используется аргумент "-d" для функции "branch". *git branch -d* <ветка для удаления> flflflflflflflflflf
  5. Чтобы исключить ненужные файлы из загрузки, применяется команда *git ignore*flflflflflflflflflflfl
  6.  Ключ "-graph" в связке с командой "log" позволяет отобразить коммиты в виде дерева. *git log --graph* 
+
+
+
+
+Хочу презентовать Вам....
